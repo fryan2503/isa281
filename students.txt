@@ -1,0 +1,8 @@
+Alice Johnson, Senior, Information Systems  
+Bob Smith, Junior, Business Analytics  
+Charlie Lee, Sophomore, Computer Science 
+Diana Prince, Freshman, Cybersecurity  
+Evan Wright, Senior, Data Science  
+Fiona Green, Junior, Software Engineering  
+George Brown, Sophomore, Information Technology  
+Hannah White, Freshman, Computer Engineering  
